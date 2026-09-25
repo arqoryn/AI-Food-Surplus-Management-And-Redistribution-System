@@ -27,6 +27,12 @@ For a selected kitchen scenario, the dashboard:
 The application is designed for one kitchen and uses local CSV files. It is a
 working prototype rather than a production logistics or emissions accounting system.
 
+## Map and Routing
+
+The dashboard includes a recipient-matching and route-planning view that visualizes surplus redistribution on a map. It plots the kitchen location together with eligible recipients, then orders the route by urgency, current need, and shorter travel distance. The map highlights how many meals each recipient receives and summarizes the total route distance for the planned redistribution.
+
+This route planning layer is intended as a lightweight operational aid for a single kitchen scenario; it does not optimize full road-network mileage or vehicle routing.
+
 ## Screenshots and Diagrams
 
 ### System Architecture
@@ -108,6 +114,7 @@ counts delivered records only; newly recorded dashboard plans have status
 dashboard.py                 Streamlit application
 src/data_preprocessing.py    CSV loading, validation, and record persistence
 src/demand_prediction.py     Feature preparation and model training/inference
+src/maps.py                  Route visualization helpers for recipient and kitchen locations
 data/                        Local operational datasets
 diagrams/                    Architecture and dashboard visuals
 demand_model.joblib          Generated model artifact
