@@ -1,0 +1,5 @@
+recipient_id,name,type,latitude,longitude,capacity,current_need,priority,distance_km,active
+R001,Community Kitchen A,Community Kitchen,34.0722,74.8240,150,100,High,3.2,1
+R002,Shelter B,Shelter,34.0911,74.8160,80,50,Medium,4.7,1
+R003,Food Bank C,Food Bank,34.0674,74.7901,200,120,High,2.1,1
+R004,Learning Centre D,Community Centre,34.0830,74.8500,60,35,Low,6.4,1

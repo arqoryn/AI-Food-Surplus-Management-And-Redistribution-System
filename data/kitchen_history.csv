@@ -1,0 +1,13 @@
+date,day_of_week,meal_type,menu_type,planned_quantity,actual_consumption,waste_quantity,holiday,special_event,temperature,rainfall
+2026-08-01,Saturday,Lunch,Rice_Chicken,1500,1340,160,0,0,29.4,2.3
+2026-08-02,Sunday,Lunch,Rice_Dal,1400,1280,120,0,1,30.1,0.0
+2026-08-03,Monday,Lunch,Rice_Vegetables,1450,1390,60,0,0,28.7,4.5
+2026-08-04,Tuesday,Lunch,Rice_Chicken,1500,1415,85,0,0,29.0,1.2
+2026-08-05,Wednesday,Lunch,Rice_Dal,1450,1360,90,0,0,28.5,0.0
+2026-08-06,Thursday,Lunch,Rice_Vegetables,1400,1310,90,0,0,27.9,3.1
+2026-08-07,Friday,Lunch,Rice_Chicken,1550,1480,70,0,1,30.0,0.0
+2026-08-08,Saturday,Lunch,Rice_Dal,1500,1375,125,0,0,29.7,0.8
+2026-08-09,Sunday,Lunch,Rice_Vegetables,1450,1300,150,0,0,31.0,0.0
+2026-08-10,Monday,Lunch,Rice_Chicken,1500,1430,70,0,0,28.2,5.0
+2026-08-11,Tuesday,Lunch,Rice_Dal,1450,1370,80,0,0,28.8,1.5
+2026-08-12,Wednesday,Lunch,Rice_Vegetables,1400,1325,75,0,0,27.6,2.0
