@@ -79,7 +79,11 @@ def append_plan_records(plan, operation_date):
     save_redistribution_records(DATA_DIR / "redistribution_records.csv", records)
 
 
-st.set_page_config(page_title="FoodLoop AI", page_icon=":material/compost:", layout="wide")
+st.set_page_config(
+    page_title="SMAR System (Surplus Management And Redistribution System)",
+    page_icon=":material/compost:",
+    layout="wide",
+)
 st.markdown(
     """
     <style>
@@ -101,7 +105,7 @@ st.markdown(
     }
     </style>
     <div class="hero">
-        <h1>FoodLoop AI</h1>
+        <h1>SMAR System (Surplus Management And Redistribution System)</h1>
         <p>Smarter production decisions. More meals reaching people.</p>
     </div>
     """,

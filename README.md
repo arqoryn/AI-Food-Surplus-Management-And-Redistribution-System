@@ -1,6 +1,7 @@
-# FoodLoop AI
+# SMAR System (Surplus Management And Redistribution System)
 
-FoodLoop AI is a Streamlit prototype for reducing food waste in institutional
+SMAR System (Surplus Management And Redistribution System) is a Streamlit
+prototype for reducing food waste in institutional
 kitchens. It combines demand forecasting with surplus planning, recipient
 matching, and redistribution tracking. The project supports **UN SDG 12:
 Responsible Consumption and Production** and **SDG 13: Climate Action**.
