@@ -1,5 +1,6 @@
 # SMAR System (Surplus Management And Redistribution System)
 
+Primary Dev: Mohamad Musadiq (ARQORYN)
 SMAR System (Surplus Management And Redistribution System) is a Streamlit
 prototype for reducing food waste in institutional
 kitchens. It combines demand forecasting with surplus planning, recipient
