@@ -1,4 +1,6 @@
 date,recipient_id,allocated_quantity,distance_km,status
-2026-09-20,R001,80,3.2,Delivered
-2026-09-20,R003,45,2.1,Delivered
-2026-09-22,R002,35,4.7,Delivered
+2026-09-01,R001,80,3.2,Delivered
+2026-09-02,R003,45,2.1,Delivered
+2026-09-03,R002,35,4.7,Delivered
+2026-09-25,R003,120,2.1,Planned
+2026-09-25,R001,99,3.2,Planned
