@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="diagrams/SMAR_logo.png" alt="SMAR System logo" width="220">
+</p>
+
 # SMAR System (Surplus Management And Redistribution System)
 
 SMAR System (Surplus Management And Redistribution System) is a Streamlit
