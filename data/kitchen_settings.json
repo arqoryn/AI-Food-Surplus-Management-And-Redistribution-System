@@ -1,0 +1,15 @@
+{
+  "baseline_window_days": 7,
+  "safety_buffer_pct": 10.0,
+  "expiring_soon_days": 3,
+  "approaching_expiry_days": 7,
+  "stock_alerts": true,
+  "expiry_alerts": true,
+  "prediction_alerts": true,
+  "surplus_shelf_life_days": {
+    "Chai": 7,
+    "Rice with Chicken": 6,
+    "Rice with Tomato": 1,
+    "Rice with Dal": 2
+  }
+}

@@ -1,0 +1,11 @@
+raw_id,ingredient,canonical_ingredient,unit,original_quantity,remaining_quantity,date_added,expiry_date,status,mapping_note
+RAW-20260925-001,Tea Leaves,Tea Leaves,kg,0.5,0.5,2026-09-25,2027-01-18,Available,Mapped
+RAW-20260925-002,Sugar,Sugar,kg,25.0,25.0,2026-09-25,2027-03-19,Available,Mapped
+RAW-20260926-001,Milk,Milk,L,40.0,40.0,2026-09-26,2026-10-05,Available,Mapped
+RAW-20260901-001,Rice,Rice,kg,60.0,60.0,2026-09-01,2026-12-15,Available,Mapped
+RAW-20260910-001,Rice,Rice,kg,45.0,45.0,2026-09-10,2027-01-05,Available,Mapped
+RAW-20260920-001,Dal,Dal,kg,22.0,22.0,2026-09-20,2027-04-08,Available,Mapped
+RAW-20260925-003,Tomato,Tomato,kg,9.0,9.0,2026-09-25,2026-09-30,Available,Mapped
+RAW-20260920-002,Chicken,Chicken,kg,14.0,14.0,2026-09-20,2026-09-25,Available,Mapped
+RAW-20260920-003,Chocolate,,kg,3.0,3.0,2026-09-20,2026-12-19,Available,Unknown / Unmapped
+RAW-20260927-001,Chicken,Chicken,kg,1.0,1.0,2026-09-27,2026-10-01,Available,Mapped

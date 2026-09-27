@@ -1,13 +1,27 @@
-date,day_of_week,meal_type,menu_type,planned_quantity,actual_consumption,waste_quantity,holiday,special_event,temperature,rainfall
-2026-09-01,Saturday,Lunch,Rice_Chicken,1500,1340,160,0,0,29.4,2.3
-2026-09-02,Sunday,Lunch,Rice_Dal,1400,1280,120,0,1,30.1,0.0
-2026-09-03,Monday,Lunch,Rice_Vegetables,1450,1390,60,0,0,28.7,4.5
-2026-09-04,Tuesday,Lunch,Rice_Chicken,1500,1415,85,0,0,29.0,1.2
-2026-09-05,Wednesday,Lunch,Rice_Dal,1450,1360,90,0,0,28.5,0.0
-2026-09-06,Thursday,Lunch,Rice_Vegetables,1400,1310,90,0,0,27.9,3.1
-2026-09-07,Friday,Lunch,Rice_Chicken,1550,1480,70,0,1,30.0,0.0
-2026-09-08,Saturday,Lunch,Rice_Dal,1500,1375,125,0,0,29.7,0.8
-2026-09-09,Sunday,Lunch,Rice_Vegetables,1450,1300,150,0,0,31.0,0.0
-2026-09-10,Monday,Lunch,Rice_Chicken,1500,1430,70,0,0,28.2,5.0
-2026-09-11,Tuesday,Lunch,Rice_Dal,1450,1370,80,0,0,28.8,1.5
-2026-09-12,Wednesday,Lunch,Rice_Vegetables,1400,1325,75,0,0,27.6,2.0
+date,meal_type,menu_type,predicted_demand,actual_production,actual_consumption,surplus_quantity,holiday,special_event,weather,precipitation
+2026-09-01,Lunch,Rice_Chicken,1412,1500,1360,140,0,0,Sunny,No precipitation
+2026-09-02,Dinner,Rice_Dal,1142,1268,1135,133,0,0,Cloudy,Light Rain
+2026-09-03,Lunch,Rice_Vegetables,1311,1438,1325,113,0,0,Rainy,Heavy Rain
+2026-09-04,Dinner,Rice_Chicken,1225,1324,1210,114,0,0,Sunny,No precipitation
+2026-09-05,Lunch,Rice_Dal,1377,1488,1375,113,0,0,Cloudy,No Rain
+2026-09-06,Dinner,Rice_Vegetables,1127,1215,1070,145,0,0,Rainy,Light Rain
+2026-09-07,Lunch,Rice_Chicken,1469,1630,1490,140,1,0,Sunny,No precipitation
+2026-09-08,Dinner,Rice_Dal,1172,1342,1185,157,0,0,Snowy,Light Snow
+2026-09-09,Lunch,Rice_Vegetables,1412,1520,1435,85,0,1,Cloudy,Heavy Rain
+2026-09-10,Dinner,Rice_Chicken,1173,1292,1150,142,0,0,Rainy,Heavy Rain
+2026-09-11,Lunch,Rice_Dal,1378,1455,1380,75,0,0,Sunny,No precipitation
+2026-09-12,Dinner,Rice_Vegetables,1139,1236,1105,131,0,0,Cloudy,Light Rain
+2026-09-13,Lunch,Rice_Chicken,1369,1572,1420,152,0,0,Rainy,Light Rain
+2026-09-14,Dinner,Rice_Dal,1200,1290,1195,95,0,0,Sunny,No precipitation
+2026-09-15,Lunch,Rice_Vegetables,1381,1525,1405,120,1,0,Cloudy,No Rain
+2026-09-16,Dinner,Rice_Chicken,1191,1334,1180,154,0,0,Rainy,Heavy Rain
+2026-09-17,Lunch,Rice_Dal,1312,1500,1290,210,0,0,Snowy,Heavy Snow
+2026-09-18,Dinner,Rice_Vegetables,1118,1245,1125,120,0,0,Cloudy,Light Rain
+2026-09-19,Lunch,Rice_Chicken,1509,1685,1560,125,0,1,Sunny,No precipitation
+2026-09-20,Dinner,Rice_Dal,1143,1310,1160,150,0,0,Rainy,Light Rain
+2026-09-21,Lunch,Rice_Vegetables,1352,1478,1340,138,0,0,Cloudy,No Rain
+2026-09-22,Dinner,Rice_Chicken,1208,1362,1215,147,0,0,Snowy,Light Snow
+2026-09-23,Lunch,Rice_Dal,1388,1548,1385,163,1,0,Rainy,Heavy Rain
+2026-09-24,Dinner,Rice_Vegetables,1162,1274,1175,99,0,0,Sunny,No precipitation
+2026-09-25,Dinner,Rice_Chicken,1298,1300,1250,50,0,1,Sunny,No precipitation
+2026-09-25,Lunch,Rice_Vegetables,1361,1600,1361,239,0,0,Sunny,No precipitation

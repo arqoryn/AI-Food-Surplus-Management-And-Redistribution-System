@@ -4,5 +4,6 @@ scikit-learn
 joblib
 matplotlib
 streamlit
+altair
 pydeck
 requests

@@ -98,6 +98,7 @@ def build_route_map(redistribution_plan):
         tooltip={
             "html": (
                 "<b>{Recipient}</b><br/>"
+                "Item: {Menu Item}<br/>"
                 "Meals: {Meals allocated}<br/>"
                 "Priority: {Priority}<br/>"
                 "Distance: {Distance (km):.1f} km"

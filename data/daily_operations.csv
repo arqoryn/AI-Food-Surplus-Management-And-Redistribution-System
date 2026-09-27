@@ -1,2 +1,2 @@
-date,meal_type,menu_type,planned_quantity,holiday,special_event
-2026-09-25,Lunch,Rice_Chicken,1500,0,1
+date,planned_quantity,holiday,special_event,weather,precipitation,safety_buffer
+2026-09-27,1020,0,0,Sunny,No precipitation,5.0

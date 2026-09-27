@@ -1,0 +1,5 @@
+inventory_id,date_added,menu_item,original_quantity,remaining_quantity,expiry_date,status
+INV-20260926-001,2026-09-26,Chai,14,14,2026-10-03,Available
+INV-20260926-002,2026-09-26,Rice with Chicken,9,9,2026-10-02,Available
+INV-20260926-003,2026-09-26,Rice with Tomato,6,6,2026-09-27,Expiring Soon
+INV-20260926-004,2026-09-26,Rice with Dal,4,4,2026-09-28,Expiring Soon
